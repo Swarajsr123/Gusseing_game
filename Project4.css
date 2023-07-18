@@ -1,0 +1,59 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.wrapper{
+    background-color: rgb(51, 50, 50);
+    height: 700px;
+    color: white;
+   
+}
+.wrapper h1{
+    margin-left: 35%;
+    padding-top: 150px;
+    font-size: 50px;
+}
+.wrapper p{
+    margin-left: 37%;
+    padding-top: 15px;
+    font-size: 20px;
+    justify-content: center;
+}
+.form{
+    margin-left: 43%;
+    height: 150px;
+    /* padding-top: 5px; */
+}
+#guess{
+    margin-left: -40px;
+    font-size: 50px;
+    
+   
+}
+#subt{
+    /* margin-top: 15px;  */
+    padding: 10px 10px 10px 10px;
+    margin-left: 65px;
+    border-radius: 5px;
+    font-size: 15px;
+    background-color: rgb(19, 19, 19);
+    color: white; 
+    
+}
+#guessfield{
+    margin-left: 27px;
+    height: 30px;
+    margin-top: 5px;
+    width: 180px;
+    font-size: 18px;
+    text-align: center;
+}
+.resultParas p{
+    margin-left: 45%;
+}
+.resultParas span{
+    background-color: rgb(99, 96, 96);
+    border: 2px solid white;
+    border-radius: 8px;
+}
+
